@@ -1,4 +1,4 @@
-# leafi-site
+# Leafi-app
 
 Páginas de suporte e de privacidade do [Leafi](https://apps.apple.com/), o app
 de prateleira de mangás, quadrinhos e livros.
@@ -14,7 +14,10 @@ gratuito. O código do app continua no repositório privado.
 ## Publicar
 
 Settings → Pages → Source: **Deploy from a branch**, branch `main`, pasta
-`/ (root)`.
+`/ (root)`. As páginas ficam em:
+
+- <https://letdogit.github.io/Leafi-app/> — Support URL
+- <https://letdogit.github.io/Leafi-app/privacy.html> — Privacy Policy URL
 
 Depois de publicado, **abrir numa janela anônima** para confirmar que não pede
 login. É a checagem que a Apple faz.
