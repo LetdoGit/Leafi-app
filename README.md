@@ -19,7 +19,7 @@ Settings → Pages → Source: **Deploy from a branch**, branch `main`, pasta
 Depois de publicado, **abrir numa janela anônima** para confirmar que não pede
 login. É a checagem que a Apple faz.
 
-## Antes de publicar
+## Contato
 
-Trocar `SEU-EMAIL@exemplo.com` pelo e-mail de contato real, nos dois arquivos.
+O e-mail de contato nas páginas é `gwendoleaf@gmail.com`.
 Esse endereço fica público na App Store.
